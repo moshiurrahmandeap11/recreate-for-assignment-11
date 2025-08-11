@@ -13,24 +13,24 @@ Coursion is a clean, modern online course management platform made to connect in
 
 ---
 
-## 🌐 Live URL
+##  Live URL
 
 LIVE SITE - [Coursion](https://coursion-9faf6.web.app/)
 
 ---
 
-## 🌐 Client Side
+##  Client Side
 
 CLIENT SIDE REPO - [Coursion Client](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-moshiurrahmandeap11.git)
 
 ---
-## 🌐 Server Side
+##  Server Side
 
 SERVER SIDE REPO - [Coursion Server](https://github.com/Programming-Hero-Web-Course4/b11a11-server-side-moshiurrahmandeap11)
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - Add, edit, and manage courses with detailed info
 - Browse latest courses with quick access to details
@@ -44,7 +44,7 @@ SERVER SIDE REPO - [Coursion Server](https://github.com/Programming-Hero-Web-Cou
 and much more
 ---
 
-## 🛠 Tech Stack & NPM Packages
+##  Tech Stack & NPM Packages
 
 - React (hooks, functional components)  
 - react-router 
@@ -59,7 +59,7 @@ and much more
 
 ---
 
-## ⚙️ How to Run Locally
+##  How to Run Locally
 
 ```bash
 # clone repo

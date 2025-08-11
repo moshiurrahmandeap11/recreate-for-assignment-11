@@ -21,7 +21,7 @@ LIVE SITE - [Coursion](https://coursion-9faf6.web.app/)
 
 ##  Client Side
 
-CLIENT SIDE REPO - [Coursion Client](https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-moshiurrahmandeap11.git)
+CLIENT SIDE REPO - [Coursion Client](https://github.com/moshiurrahmandeap11/recreate-for-assignment-11)
 
 ---
 ##  Server Side

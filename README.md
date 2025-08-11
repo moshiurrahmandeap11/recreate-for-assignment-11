@@ -26,7 +26,7 @@ CLIENT SIDE REPO - [Coursion Client](https://github.com/Programming-Hero-Web-Cou
 ---
 ##  Server Side
 
-SERVER SIDE REPO - [Coursion Server](https://github.com/Programming-Hero-Web-Course4/b11a11-server-side-moshiurrahmandeap11)
+SERVER SIDE REPO - [Coursion Server](https://github.com/moshiurrahmandeap11/recreate-for-assignment-11-server)
 
 ---
 

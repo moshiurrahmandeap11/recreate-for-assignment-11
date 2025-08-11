@@ -1,4 +1,4 @@
-# 🚀 Coursion
+#  Coursion
 
 ---
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 🔥 Purpose
+##  Purpose
 
 Coursion is a clean, modern online course management platform made to connect instructors & learners. Build, explore, and enroll in courses with a smooth UI and rock-solid backend.
 

@@ -32,7 +32,7 @@ const Course = () => {
   if (course.length === 0) {
     return (
       <div className="py-10 px-4 max-w-7xl mx-auto text-center text-xl font-semibold text-gray-700">
-        No Course Available Right Now
+        No Course Available Right Now.Stay Tuned
       </div>
     );
   }

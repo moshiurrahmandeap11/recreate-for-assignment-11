@@ -15,7 +15,7 @@ const Course = () => {
   }, [location.pathname]);
 
   useEffect(() => {
-    axios
+    // axios
       .get("https://coursion-server.vercel.app/courses")
       .then((res) => {
         setCourse(res.data);

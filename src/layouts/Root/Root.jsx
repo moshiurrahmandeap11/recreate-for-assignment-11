@@ -2,6 +2,7 @@ import React from 'react';
 import { Outlet } from 'react-router';
 import Navbar from '../../shared/Navbar/Navbar';
 import Footer from '../../shared/Footer/Footer';
+import Chatbot from '../../components/Chatbot/Chatbot'; // Add this import
 
 const Root = () => {
     return (
@@ -13,6 +14,8 @@ const Root = () => {
             <footer>
                 <Footer></Footer>
             </footer>
+            {/* Add Chatbot component */}
+            <Chatbot />
         </div>
     );
 };

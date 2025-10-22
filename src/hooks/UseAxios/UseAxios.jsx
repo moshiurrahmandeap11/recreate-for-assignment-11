@@ -3,7 +3,7 @@ import { useAuth } from "../UseAuth/UseAuth";
 import Loading from "../../components/Loading/Loading";
 
 const axiosInstance = axios.create({
-  baseURL: "https://coursion-server.vercel.app/",
+  baseURL: "http://localhost:3000/",
 });
 
 const UseAxios = () => {
